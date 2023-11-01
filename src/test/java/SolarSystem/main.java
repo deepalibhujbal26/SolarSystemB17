@@ -10,5 +10,10 @@ public class main {
         solarsys.Stars = "10";
 
 
+        //****feature Sun
+        FeatureSun Sun = new FeatureSun();
+        Sun.name = "panther";
+        Sun.color = "black";
+        Sun.temp = "1222312elvin";
     }
 }
